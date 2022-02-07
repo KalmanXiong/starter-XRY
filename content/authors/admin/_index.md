@@ -6,7 +6,7 @@ title: Ruoyang Xiong
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: Master in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
