@@ -29,7 +29,7 @@ education:
   - course: Master in Computer Science
     institution: University of Florida
     year: 2022
-  - course: BSc in Artificial Science and Technology
+  - course: Bachelor in Artificial Science and Technology
     institution: Hebei University of Technology
     year: 2015
 
