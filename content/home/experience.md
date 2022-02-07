@@ -41,7 +41,7 @@ experience:
     #company_logo: org-x
     location: Beijing
     date_start: '2016-09-27'
-    date_end: '2020-2-28'
+    date_end: '2020-2-27'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
