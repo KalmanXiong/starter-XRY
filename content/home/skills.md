@@ -18,7 +18,7 @@ subtitle:
 
 feature:
 - description: 90%
-  icon: fa-python
+  icon: python
   icon_pack: fab
   name: Pyhon
 - description: 100%
