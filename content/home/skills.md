@@ -17,18 +17,18 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 
 feature:
-- description: 90%
+- description: 80%
+  icon: keyboard
+  icon_pack: fas
+  name: C++
+- description: 70%
   icon: python
   icon_pack: fab
   name: Pyhon
-- description: 100%
+- description: 60%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Matlab
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
