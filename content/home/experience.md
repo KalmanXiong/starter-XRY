@@ -32,9 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         * Software framework designing
-        * SDK group management
-        * c++ coding
-        
+        * C++ coding
   - title: Group leader
     company: MYNT AI
     company_url: 'https://www.mynteye.com/'
@@ -42,7 +40,11 @@ experience:
     location: Beijing
     date_start: '2016-09-27'
     date_end: '2020-02-28'
-    #description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        * SDK group management
+        * Software framework designing
+        * C++ coding
 
 design:
   columns: '2'
