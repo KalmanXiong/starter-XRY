@@ -25,7 +25,7 @@ experience:
   - title: Group leader
     company: Indemind
     company_url: 'http://www.indemind.cn/'
-    company_logo: 'uploads/indemind.icon'
+    company_logo: indemind
     location: Beijing
     date_start: '2020-03-01'
     date_end: '2021-08-16'
