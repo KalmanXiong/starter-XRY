@@ -37,8 +37,8 @@ experience:
         
   - title: Group leader
     company: MYNT AI
-    company_url: ''
-    #company_logo: org-x
+    company_url: 'https://www.mynteye.com/'
+    company_logo: mynt
     location: Beijing
     date_start: '2016-09-27'
     date_end: '2020-02-28'
