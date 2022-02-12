@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/The resume of Ruoyang Xiong.pdf
+  link: uploads/Ruoyang_Xiong_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
