@@ -79,4 +79,4 @@ Then I joined INDEMIND, a company specializing in visual and indoor navigation. 
 
 I am currently doing some machine learning and data analysis work in a laboratory at UF. The current main research topic is to use the GPS data of escape personnel to analyze their escape routes, route selection, and the rationality of urban road distribution during the Sonoma wildfire in 2019. This project is supported by the California government.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/The resume of Ruoyang Xiong.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Ruoyang_Xiong_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
