@@ -10,7 +10,7 @@ role: Master in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Univerist of Florida
+- name: University of Florida
   url: https://www.ufl.edu/
 
 # Short bio (displayed in user profile at end of posts)
